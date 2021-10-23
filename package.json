@@ -1,6 +1,6 @@
 {
   "name": "mime-lite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Standard mime types for JavaScript",
   "main": "src/index.js",
   "types": "src/index.d.ts",
@@ -11,7 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/ASaiAnudeep/mime-lite.git"
   },
-  "keywords": [ "mime", "lite" ],
+  "keywords": [
+    "mime",
+    "lite"
+  ],
   "author": "",
   "license": "MIT",
   "bugs": {
